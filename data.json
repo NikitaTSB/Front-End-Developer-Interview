@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "johndoe@mail.com",
+    "avatar": "johndoe.svg",
+    "position": "Software Engineer",
+    "social_media": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/johndoe"
+      },
+      {
+        "name": "twitter",
+        "url": "https://www.twitter.com/johndoe"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/johndoe"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/johndoe"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "email": "janedoe@mail.com",
+    "position": "Software Engineer",
+    "avatar": "janedoe.svg",
+    "social_media": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/janedoe"
+      },
+      {
+        "name": "twitter",
+        "url": "https://www.twitter.com/janedoe"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/janedoe"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/janedoe"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "John Smith",
+    "email": "johnsmith@mail.com",
+    "position": "Software Engineer",
+    "avatar": "johnsmith.svg",
+    "social_media": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/johnsmith"
+      },
+      {
+        "name": "twitter",
+        "url": "https://www.twitter.com/johnsmith"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/johnsmith"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/johnsmith"
+      }
+    ]
+  }
+]
