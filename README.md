@@ -57,4 +57,4 @@
 
 - Сторінка має працювати як описано при будь якій кількості співробітників(файл data.json може бути змінений)
 - Всі файли проєкту (папка `assets`, `index.html`, `script.js`, `style.css`, `data.json`, файли додатково використанних препроцессорів) розмістити в архіві
-- Відправити архів `result.zip` на електронну адресу: `mariia.chekanina@netsolidinvest.com`
+- Zip-архів `result.zip` завантажити на Google Drive, посилання надіслати на електронну адресу: `mariia.chekanina@netsolidinvest.com`
